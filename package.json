@@ -1,0 +1,28 @@
+{
+  "name": "random-messages-beatles",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Michelle Duque <michelled_1994@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelleDuque/random-messages-beatles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MichelleDuque/random-messages-beatles/issues"
+  },
+  "homepage": "https://github.com/MichelleDuque/random-messages-beatles#readme"
+}
